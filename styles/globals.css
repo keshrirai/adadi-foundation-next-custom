@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide {
+    margin-left:20px;
+  }
+  .slick-list {
+    margin-left:-27px;
+  } 
